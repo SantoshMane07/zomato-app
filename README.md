@@ -3,7 +3,7 @@
 ![Zomato Class Diagram Final - Page 1](https://github.com/user-attachments/assets/7d9bdb9c-3b38-4dc9-bd4f-950ac86204f7)
 
 **KEY HIGHLIGHTS**
-/n
+
 **1. Customer can fetch nearby restaurants and add their favourite menu Items to cart**
 **2. Restaurant Partner will accept the order request of customer and start preparing the food**
 **3. As the Order gets accepted a delivery request will be generated notifying the nearest delivery partners based on the delivery partner matching strategy, if customer has rating above 4.9 then nearest highest rated delivery partners will be notified about the delivery request or else the nearest ones.**
