@@ -17,3 +17,7 @@
 **6. On delivery completion payment will be processed based on payment method selected by the customer**
 
 **7. Customer can also give feedback which will include review and rating to the delivery, restaurant and the menu-item.**
+
+**Flow Diagram**
+
+![ZomatoFlowDiagram](https://github.com/user-attachments/assets/94fdc26b-f80b-4c9a-86c2-97588bc1a8c7)
