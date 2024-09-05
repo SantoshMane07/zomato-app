@@ -1,0 +1,22 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      java: corretto21
+    commands:
+      - echo Installing Maven...
+  build:
+    commands:
+      - echo Building, Testing and packaging the application...
+      - mvn package
+  post_build:
+    commands:
+      - echo Build, Testing and packaging completed.
+artifacts:
+  files:
+    - target/*.jar
+  discard-paths: yes
+cache:
+  paths:
+    - '/root/.m2/**/*'
